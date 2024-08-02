@@ -1,0 +1,22 @@
+h2{
+    text-align: right;
+
+}
+span{
+    text-align: right;
+}
+.space{
+    display: flex;
+    justify-content: space-between;
+}
+.heading{
+    display: flex;
+    justify-content: left;
+}
+body{
+    background-color:grey;
+}
+.imgg{
+    
+    height: 300px;
+}
